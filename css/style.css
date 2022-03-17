@@ -42,6 +42,8 @@ body {
 
 header {
   box-shadow: var(--header-shadow);
+  padding-top: 2rem;
+
 }
 
 header .container {
