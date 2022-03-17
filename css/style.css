@@ -42,6 +42,8 @@ body {
 
 header {
   box-shadow: var(--header-shadow);
+  background-color: #cecece;
+
   padding-top: 2rem;
 
 }
@@ -145,6 +147,7 @@ section {
 .countdown h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
+  background: #c0c0c0;
   margin: 2rem 0;
   font-size: 3.5rem;
   text-align: center;
